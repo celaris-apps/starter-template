@@ -1,0 +1,16 @@
+{
+  "name": "celaris-src-temp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "celaris": "file:../celaris-cli"
+  },
+  "scripts": {
+    "celaris": "celaris"
+  }
+}
