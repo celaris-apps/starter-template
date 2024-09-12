@@ -7,10 +7,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "celaris": "file:../celaris-cli"
-  },
   "scripts": {
     "celaris": "celaris"
+  },
+  "dependencies": {
+    "celaris-cli": "^0.1.0"
   }
 }
